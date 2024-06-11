@@ -1,0 +1,11 @@
+name: ipcc_ch6f14
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python=3.7
+  - netCDF4
+  - numpy
+  - matplotlib
+
