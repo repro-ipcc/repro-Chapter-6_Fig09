@@ -1,6 +1,8 @@
 # ipcc-ar6-wg1-figure Chapter 6 Figure 9
 
-
+| Input | Running | Output | Quality | Post-process |
+|-------|---------|--------|---------|--------------|
+| ![Code](https://img.shields.io/badge/Code-Complete-green) <br> ![Dependence](https://img.shields.io/badge/Dependence-Complete-green) <br> ![Data](https://img.shields.io/badge/Data-Partial-orange) | ![Running](https://img.shields.io/badge/Not_running-red) |  |  |  |
 
 Project to re-create the IPCC AR6 WG1 figures. See https://ipcc.ch and https://github.com/IPCC-WG1
 
